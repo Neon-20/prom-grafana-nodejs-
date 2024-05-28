@@ -30,4 +30,4 @@ app.get("/user",async(req,res)=>{
 //         id:1,
 //     })
 // })
-app.listen(3000);
+app.listen(8080);
